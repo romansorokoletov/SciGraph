@@ -118,6 +118,7 @@
             <exclude>**/*.yml</exclude>
             <exclude>src/test/resources/**</exclude>
             <exclude>src/main/resources/**</exclude>
+            <exclude>src/main/xsd/xml.xsd</exclude>
           </excludes>
         </configuration>
         <executions>
